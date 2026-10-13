@@ -1,1 +1,1 @@
-# quran-recitation.io
+# quran-recitation
